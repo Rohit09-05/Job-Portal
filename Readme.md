@@ -14,22 +14,28 @@ cd backend
 
 Install Backend Dependencies:
 Run the following command to install the backend dependencies:
+
 npm install
 
 Go Back to the Root Directory:
 Go back to the root project directory:
+
 cd ..
+
 Navigate to the Frontend Directory:
 Enter the frontend directory:
+
 cd frontend
-Install Frontend Dependencies:
+
+#Install Frontend Dependencies:
 Install the necessary frontend dependencies:
 npm install
 
 Configuration:
 Create a .env File:
 In the backend folder
-Add the Following Environment Variables:
+
+#Add the Following Environment Variables:
 
 
 # Backend Server Configuration
