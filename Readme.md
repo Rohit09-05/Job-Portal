@@ -3,14 +3,19 @@ Ensure Node.js is installed on your system.
 
 Setup Instructions:
 Navigate to the Project Directory:
+
 Open the terminal/command prompt and go to the project directory:
+
 cd job-portal
+
 Navigate to the Backend Directory:
 Enter the backend directory:
 cd backend
+
 Install Backend Dependencies:
 Run the following command to install the backend dependencies:
 npm install
+
 Go Back to the Root Directory:
 Go back to the root project directory:
 cd ..
@@ -23,7 +28,7 @@ npm install
 
 Configuration:
 Create a .env File:
-In the backend folder, create a .env file.
+In the backend folder
 Add the Following Environment Variables:
 
 
