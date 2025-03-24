@@ -1,10 +1,10 @@
-Pre-requisite:
+1.Pre-requisite:
 Ensure Node.js is installed on your system.
 
-Setup Instructions:
+2.Setup Instructions:
 Navigate to the Project Directory:
 
-Open the terminal/command prompt and go to the project directory:
+3.Open the terminal/command prompt and go to the project directory:
 
 cd job-portal
 
@@ -12,22 +12,22 @@ Navigate to the Backend Directory:
 Enter the backend directory:
 cd backend
 
-Install Backend Dependencies:
+5.Install Backend Dependencies:
 Run the following command to install the backend dependencies:
 
 npm install
 
-Go Back to the Root Directory:
+6.Go Back to the Root Directory:
 Go back to the root project directory:
 
 cd ..
 
-Navigate to the Frontend Directory:
+7.Navigate to the Frontend Directory:
 Enter the frontend directory:
 
 cd frontend
 
-#Install Frontend Dependencies:
+8.#Install Frontend Dependencies:
 Install the necessary frontend dependencies:
 npm install
 
@@ -35,7 +35,7 @@ Configuration:
 Create a .env File:
 In the backend folder
 
-#Add the Following Environment Variables:
+9.#Add the Following Environment Variables:
 
 
 # Backend Server Configuration
@@ -54,6 +54,6 @@ API_SECRET=<YOUR_CLOUDINARY_API_SECRET>
 
 
 
-After This:
+10.After This:
 The server should now be running on localhost:8000.
 The frontend (React app) can be started separately using the appropriate npm commands.
